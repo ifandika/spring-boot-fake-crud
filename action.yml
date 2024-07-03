@@ -1,0 +1,4 @@
+- name: Generate Open Graph Image
+  uses: potatoqualitee/ogimage@v1.0
+  with:
+    stylesheet: style.css
